@@ -28,6 +28,15 @@ the st terminfo entry with the following command:
 
 See the man page for additional details.
 
+
+Changes made by Dhanus
+---------------------
+1. Applied the [colorschemes patch](https://st.suckless.org/patches/colorschemes/).
+2. Applied the [scrollback patch](https://st.suckless.org/patches/scrollback/).
+3. Changed the scrollback binding to `shift+ctrl+j/k`.
+4. Changed the fontsize change binding to `ctrl+ +/-`.
+
+
 Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
